@@ -1,0 +1,14 @@
+D:\pavel\LogReader\LogReader\LoadReaderServiceConfigUtil\bin\Debug\NLog.config
+D:\pavel\LogReader\LogReader\LoadReaderServiceConfigUtil\bin\Debug\LoadReaderServiceConfigUtil.exe.config
+D:\pavel\LogReader\LogReader\LoadReaderServiceConfigUtil\bin\Debug\LoadReaderServiceConfigUtil.exe
+D:\pavel\LogReader\LogReader\LoadReaderServiceConfigUtil\bin\Debug\LoadReaderServiceConfigUtil.pdb
+D:\pavel\LogReader\LogReader\LoadReaderServiceConfigUtil\bin\Debug\LoadReaderUtils.dll
+D:\pavel\LogReader\LogReader\LoadReaderServiceConfigUtil\bin\Debug\NLog.dll
+D:\pavel\LogReader\LogReader\LoadReaderServiceConfigUtil\bin\Debug\LoadReaderUtils.pdb
+D:\pavel\LogReader\LogReader\LoadReaderServiceConfigUtil\bin\Debug\NLog.xml
+D:\pavel\LogReader\LogReader\LoadReaderServiceConfigUtil\obj\Debug\LoadReaderServiceConfigUtil.csprojResolveAssemblyReference.cache
+D:\pavel\LogReader\LogReader\LoadReaderServiceConfigUtil\obj\Debug\LoadReaderServiceConfigUtil.Form1.resources
+D:\pavel\LogReader\LogReader\LoadReaderServiceConfigUtil\obj\Debug\LoadReaderServiceConfigUtil.Properties.Resources.resources
+D:\pavel\LogReader\LogReader\LoadReaderServiceConfigUtil\obj\Debug\LoadReaderServiceConfigUtil.csproj.GenerateResource.Cache
+D:\pavel\LogReader\LogReader\LoadReaderServiceConfigUtil\obj\Debug\LoadReaderServiceConfigUtil.exe
+D:\pavel\LogReader\LogReader\LoadReaderServiceConfigUtil\obj\Debug\LoadReaderServiceConfigUtil.pdb

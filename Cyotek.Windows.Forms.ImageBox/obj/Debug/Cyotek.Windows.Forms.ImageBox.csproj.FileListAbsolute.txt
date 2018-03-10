@@ -1,0 +1,5 @@
+C:\Users\c1434916\Desktop\zmani\Cyotek.Windows.Forms.ImageBox-master\Cyotek.Windows.Forms.ImageBox-master\Cyotek.Windows.Forms.ImageBox\bin\Debug\Cyotek.Windows.Forms.ImageBox.dll
+C:\Users\c1434916\Desktop\zmani\Cyotek.Windows.Forms.ImageBox-master\Cyotek.Windows.Forms.ImageBox-master\Cyotek.Windows.Forms.ImageBox\bin\Debug\Cyotek.Windows.Forms.ImageBox.pdb
+C:\Users\c1434916\Desktop\zmani\Cyotek.Windows.Forms.ImageBox-master\Cyotek.Windows.Forms.ImageBox-master\Cyotek.Windows.Forms.ImageBox\obj\Debug\Cyotek.Windows.Forms.ImageBox.csprojResolveAssemblyReference.cache
+C:\Users\c1434916\Desktop\zmani\Cyotek.Windows.Forms.ImageBox-master\Cyotek.Windows.Forms.ImageBox-master\Cyotek.Windows.Forms.ImageBox\obj\Debug\Cyotek.Windows.Forms.ImageBox.dll
+C:\Users\c1434916\Desktop\zmani\Cyotek.Windows.Forms.ImageBox-master\Cyotek.Windows.Forms.ImageBox-master\Cyotek.Windows.Forms.ImageBox\obj\Debug\Cyotek.Windows.Forms.ImageBox.pdb
